@@ -7,3 +7,5 @@ let userQuestion = 'Will I win the lottery?';
 console.log(`${userName} asked 'Will I win the lottery?'`)
 
 let randomNumber = Math.floor(Math.random() * 8);
+
+let eightBall = ''
